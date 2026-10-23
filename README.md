@@ -1,64 +1,39 @@
-# matheus
+# Matheus | Developer
 
-# Matheus | Developer in Progress
+> Technology student · Software Development · Python & Web
 
-UX/UI - PARTE DA AVALIAÇÃO
+---
 
-UX - experiência O jogador entende o objetivo, sabe o que fazer, recebe feedback e não se perde durante a partida.
+## About me
 
-UI - interface Hierarquia visual, contraste, tipografia, botões, ícones, espaçamento e consistência.
+I'm a technology student passionate about programming,
+problem-solving, and building practical projects.
 
-Responsividade A interface deve se adaptar sem quebrar em diferentes larguras de tela.
+- Learning Python and Object-Oriented Programming
+- Developing websites with HTML and CSS
+- Practicing Git and GitHub
+- Focused on writing clean, readable code
 
-Estados e feedback Indicar turno, ação selecionada, erro, sucesso, carregamento, pontos e fim da partida.
+## Tech Stack
 
-Acessibilidade básica Texto legível, contraste adequado e não depender apenas de cor para transmitir informação.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-| Area                    | Technologies                       |
-| ----------------------- | ---------------------------------- |
-| Programming             | Python                             |
-| Web development         | HTML5, CSS3                        |
-| Version control         | Git, GitHub                        |
-| Development environment | Visual Studio Code                 |
-| Current learning        | OOP, responsive design, clean code |
+## Projects
 
-## `featured_projects`
+Explore my repositories and development experiments:
 
-### Projects & Experiments
+[View my repositories](https://github.com/teteu021coder?tab=repositories)
 
-A collection of practical projects, experiments, and learning milestones.
+## GitHub Statistics
 
-- **[Skills & Resources](https://github.com/teteu021coder/skills)** — A repository for development-related resources and materials.
-- **[Explore my repositories](https://github.com/teteu021coder?tab=repositories)** — Discover my projects, experiments, and ongoing work.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teteu021coder&show_icons=true&theme=github_dark&hide_border=true)
 
-> More projects will be featured here as they evolve from experiments into complete, documented solutions.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teteu021coder&layout=compact&theme=github_dark&hide_border=true)
 
-## `github_activity`
+---
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=teteu021coder&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=teteu021coder\&show_icons=true\&hide_border=true\&bg_color=0d1117\&title_color=58A6FF\&icon_color=58A6FF\&text_color=c9d1d9\&rank_icon=github)" height="165" alt="GitHub statistics" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=teteu021coder&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9](https://github-readme-stats.vercel.app/api/top-langs/?username=teteu021coder\&layout=compact\&hide_border=true\&bg_color=0d1117\&title_color=58A6FF\&text_color=c9d1d9)" height="165" alt="Most used programming languages" />
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=teteu021coder&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF](https://streak-stats.demolab.com?user=teteu021coder\&theme=github-dark-blue\&hide_border=true\&background=0D1117\&ring=58A6FF\&fire=58A6FF\&currStreakLabel=58A6FF)" width="70%" alt="GitHub contribution streak" />
-\</p>
-
-## `principles`
-
-- **Consistency over shortcuts.**
-- **Readable code over unnecessary complexity.**
-- **Understanding over memorization.**
-- **Progress through practice and feedback.**
-
-## `connect`
-
-\<p>
-&#x20; \<a href="[https://github.com/teteu021coder](https://github.com/teteu021coder)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow%20my%20work-161b22?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow%20my%20work-161b22?style=for-the-badge\&logo=github\&logoColor=white)" alt="Follow my work on GitHub" />
-&#x20; \</a>
-\</p>
-
-\<p align="center">
-&#x20; \<sub>Learning continuously. Building deliberately. Improving every day.\</sub>
-\</p>
+*Learning, building, and improving every day.*
