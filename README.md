@@ -1,7 +1,6 @@
 # Matheus | Developer
 
 > Technology student · Software Development · Python & Web
-
 ---
 
 ## About me
